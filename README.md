@@ -1,8 +1,11 @@
 
 ## Pythogorean Theorem
 In mathematics, the Pythagorean theorem, also known as Pythagoras’s theorem, is a fundamental relation in Euclidean geometry among the three sides of a right triangle. It states that the square of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the other two sides. The theorem can be written as an equation relating the lengths of the sides a, b and c, often called the “Pythagorean equation”
-![N|Solid](https://upload.wikimedia.org/wikipedia/commons/7/7a/Areaspitagoras01.svg)
+
+![N|Solid](https://wikimedia.org/api/rest_v1/media/math/render/svg/92333b53991e3ea02f5d6384bac4911ae3060a1e)
+
 where c represents the length of the hypotenuse and a and b the lengths of the triangle’s other two sides.
+
 ![N|Solid](https://j.gifs.com/r0WpX6.gif)
 
 ## Example:
